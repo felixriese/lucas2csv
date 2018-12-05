@@ -8,14 +8,14 @@ The LUCAS 2009 TOPSOIL database is a rich dataset consisting of hyperspectral re
 
 The following columns are extracted:
 
-    - `sample.ID`: ID of the soil sample
-    - `date`: date and time
-    - `spc`: hyperspectral data
-    - `clay`: clay content in percentage
-    - `silt`: silt content in percentage
-    - `sand`: sand content in percentage
-    - `GPS_LAT`: GPS latitude
-    - `GPS_LONG`: GPS longitude
+- `sample.ID`: ID of the soil sample
+- `date`: date and time
+- `spc`: hyperspectral data
+- `clay`: clay content in percentage
+- `silt`: silt content in percentage
+- `sand`: sand content in percentage
+- `GPS_LAT`: GPS latitude
+- `GPS_LONG`: GPS longitude
 
 Link to the LUCAS Topsoil database: [https://esdac.jrc.ec.europa.eu/content/lucas-2009-topsoil-data](https://esdac.jrc.ec.europa.eu/content/lucas-2009-topsoil-data)
 
